@@ -1,3 +1,3 @@
 # hellogit
 This repository is purely didactical to me. I'm new to Git...
-My naaaaame is Etienne. I am a father of three interested into behavioural statistics. Interactive website modules and data farming are two pilars of my professional interests.
+My naaaaame is Etieeeeenne. I am a father of three interested into behavioural statistics. Interactive website modules and data farming are two pilars of my professional interests.
